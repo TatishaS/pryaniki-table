@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/pryaniki-table/static/css/main.a183c24e.css",
-    "main.js": "/pryaniki-table/static/js/main.536a1a84.js",
+    "main.js": "/pryaniki-table/static/js/main.6056fd02.js",
     "static/media/main-bg.jpg": "/pryaniki-table/static/media/main-bg.165a778cd3a9459c520c.jpg",
     "static/media/signup-bg.jpg": "/pryaniki-table/static/media/signup-bg.19646a875dbcce9659b0.jpg",
     "index.html": "/pryaniki-table/index.html",
     "static/media/icon-spinner.svg": "/pryaniki-table/static/media/icon-spinner.9cefc70ab1aee009c93dbdce8407426f.svg",
     "main.a183c24e.css.map": "/pryaniki-table/static/css/main.a183c24e.css.map",
-    "main.536a1a84.js.map": "/pryaniki-table/static/js/main.536a1a84.js.map"
+    "main.6056fd02.js.map": "/pryaniki-table/static/js/main.6056fd02.js.map"
   },
   "entrypoints": [
     "static/css/main.a183c24e.css",
-    "static/js/main.536a1a84.js"
+    "static/js/main.6056fd02.js"
   ]
 }
